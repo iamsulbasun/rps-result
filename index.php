@@ -5,9 +5,9 @@
   $statement=$db->prepare($qr);
 ?>
 <!DOCTYPE html>
-<body>
 <head>
     <title>Result Processing System</title>
 </head>
+<body>
 </body>
 </html>
